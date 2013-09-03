@@ -15,4 +15,4 @@ Features:
 - Secure communication through Tor (Like TorChat)
 - Decentralized P2P trades and Communication
 - Printable Wallet
-- Backup Wallet to services like Drive, Drop Box, etc. or Email? 
+- Backup Wallet to services like Drive, Drop Box, etc. or Brain Wallet passphrase  
